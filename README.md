@@ -1,4 +1,5 @@
 This web app is created with a motive to share information within a community like it could be a school,universiy etc.
+Hosting URL: https://picturesposting-app.web.app
 
 Here is the visual video on how the app works:
 https://user-images.githubusercontent.com/91485241/175383989-9063b695-4d08-4ccb-a861-30b17f2ef554.mp4
@@ -14,3 +15,4 @@ All the comments and posts are also being stored in database created using fireb
 ![posts](https://user-images.githubusercontent.com/91485241/175381151-c3c3e4f9-b9d1-404a-aa96-3469fe6f4c01.jpg)
 
 ![comments](https://user-images.githubusercontent.com/91485241/175381163-49f9b243-ba75-4e07-9991-2a9a11087cb9.jpg)
+
