@@ -1,4 +1,5 @@
 This web app is created with a motive to share information within a community like it could be a school,universiy etc.
+      
 Hosting URL: https://picturesposting-app.web.app
 
 Here is the visual video on how the app works:
