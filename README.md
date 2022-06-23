@@ -1,6 +1,9 @@
 This web app is created with a motive to share information within a community like it could be a school,universiy etc.
 
-The technologies used for building this are REACT and FIREBASE.
+Here is the visual video on how the app works:
+https://user-images.githubusercontent.com/91485241/175383989-9063b695-4d08-4ccb-a861-30b17f2ef554.mp4
+
+The technologies used for building this are REACT JS and FIREBASE.
 
 Firebase was used for user authentication using email address
 
