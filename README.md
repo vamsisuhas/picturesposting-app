@@ -1,4 +1,4 @@
-This web app is created with a motive to share information within a community like it could be a school,universiy etc.
+The essence of this website is it's photo sharing ability exclusively designed for posting pictures and show it to the world. It could also be used as a branding tool or simply a way to gain more customers. All in all it is obvious that it can serve a variety of purposes, it is upto the individual however to discover for themselves what purpose that exactly is.
       
 Hosting URL: https://picturesposting-app.web.app
 
